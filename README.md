@@ -1,2 +1,2 @@
-# r_projects
+# R_projects
 R studio repo
